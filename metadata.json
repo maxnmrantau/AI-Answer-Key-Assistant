@@ -1,0 +1,5 @@
+{
+  "name": "AI Answer Key Assistant",
+  "description": "Upload PDF answer keys, check answers from text/screenshots, and generate up to 100 unique practice questions using Gemini AI.",
+  "requestFramePermissions": []
+}
