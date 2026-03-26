@@ -1,3 +1,5 @@
+<img width="1231" height="827" alt="image" src="https://github.com/user-attachments/assets/845acd15-a028-44e8-8891-aaff686292a1" />
+
 # 🤖 AI Answer Checker & Question Generator
 
 Aplikasi berbasis AI yang dirancang untuk membantu pengajar dan siswa dalam memeriksa jawaban secara otomatis berdasarkan dokumen PDF kunci jawaban, serta membuat soal baru secara instan menggunakan teknologi **Google Gemini AI**.
